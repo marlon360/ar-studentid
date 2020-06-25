@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "studentid_back.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 8.6877876106194698
+  }
+}
